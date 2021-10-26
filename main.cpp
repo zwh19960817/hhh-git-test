@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int a = 11;
+int b = 11;
 void tt() {}
 
 int main()
