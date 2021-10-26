@@ -12,3 +12,6 @@ int main()
     cout << "test1" << endl;
     return 0;
 }
+void hh()
+{
+}
