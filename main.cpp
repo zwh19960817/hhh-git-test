@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int a = 10;
+int a = 121212;
+int veriona = 0;
 void tt() {}
 
 int main()
